@@ -155,8 +155,8 @@ CSRF_USE_SESSIONS=False
 # 邮件发送配置
 EMAIL_HOST = 'smtp.qq.com'
 EMAIL_PORT = 465
-EMAIL_HOST_USER = 'christozavicz@foxmail.com'
-EMAIL_HOST_PASSWORD = 'ubebxnbzddulbghb'
+EMAIL_HOST_USER = '***'
+EMAIL_HOST_PASSWORD = '***'
 
-SERVER_EMAIL = 'christozavicz@foxmail.com'
-ADMINS = [('christozavic', 'christozavic@foxmail.com')]
+SERVER_EMAIL = '***'
+ADMINS = [('***', '***')]
